@@ -1,16 +1,98 @@
-# React + Vite
+# Tulas International School (TIS) - Homepage Redesign
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, animated, and responsive redesign of the **Tulas International School (TIS)** homepage, focused on creating an engaging user experience, clear content presentation, smooth animations, and strong visual appeal across devices.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* **Live URL:** [Add your Vercel / Netlify Link Here]
+* **Repository:** https://github.com/surajingle07/Tis-homepage-redesign_Task
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Framework:** Next.js / React.js
+* **Styling:** Tailwind CSS
+* **Animations:** Framer Motion / GSAP
+* **Icons:** Lucide React / React Icons
+* **Deployment:** Vercel
 
-## Expanding the Oxlint configuration
+## ✨ Standout Features Implemented
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+1. **Modern Hero Section:** Designed an engaging hero section with clear messaging, strong visual hierarchy, and call-to-action elements.
+
+2. **Smooth Animations:** Added fluid entrance, hover, scroll, and transition animations to improve the overall user experience.
+
+3. **Responsive Design:** Optimized the homepage for desktop, tablet, and mobile screen sizes.
+
+4. **Interactive Navigation:** Implemented a responsive navigation system with smooth interactions and mobile-friendly navigation.
+
+5. **High-Conversion Sections:** Structured important school information, programs, facilities, and calls-to-action to make the homepage more engaging and user-focused.
+
+6. **Modern UI Design:** Used clean layouts, typography, spacing, cards, imagery, and visual elements to create a professional school website experience.
+
+## 📦 Getting Started Locally
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/surajingle07/Tis-homepage-redesign_Task.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd Tis-homepage-redesign_Task
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+### 5. Open in browser
+
+Visit:
+
+```text
+http://localhost:3000
+```
+
+## 📁 Project Structure
+
+```text
+Tis-homepage-redesign_Task/
+├── public/
+├── src/
+├── components/
+├── app/
+├── package.json
+└── README.md
+```
+
+> The exact folder structure may vary depending on the project configuration.
+
+## 📱 Responsive Design
+
+The website is designed to provide a consistent experience across:
+
+* Desktop
+* Laptop
+* Tablet
+* Mobile devices
+
+## 🎯 Project Objective
+
+The objective of this project is to redesign the Tulas International School homepage with a **modern visual identity, engaging animations, responsive layouts, and clear user journeys**, while maintaining usability and performance.
+
+## 👨‍💻 Developer
+
+**Suraj Ingle**
+
+* GitHub: https://github.com/surajingle07
+* Repository: https://github.com/surajingle07/Tis-homepage-redesign_Task
